@@ -1,0 +1,7 @@
+/build/
+*.out
+*.o
+
+# Local exam projects.
+/Esame/
+/Esame_07_10_2020/
